@@ -1,0 +1,24 @@
+{
+  "name": "stats-preview-card-component-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pamesjollard/frontend-mentor-card-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pamesjollard/frontend-mentor-card-component/issues"
+  },
+  "homepage": "https://github.com/pamesjollard/frontend-mentor-card-component#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
